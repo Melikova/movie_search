@@ -12,6 +12,9 @@
         margin-bottom: 32px;
         width: fit-content;
         cursor: pointer;
+        &:hover{
+            color: #0B4393;
+        }
     }
     .backIcon{
         margin-right: 15px;
